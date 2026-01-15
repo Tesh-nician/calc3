@@ -1,3 +1,5 @@
+
+//modif en haut par user1
 function add(a, b) {
     return a + b;
 }
