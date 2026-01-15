@@ -15,3 +15,5 @@ function divide(a, b) {
     }
     return a / b;
 }
+
+//petit modif user2
