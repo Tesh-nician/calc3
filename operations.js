@@ -18,6 +18,9 @@ function divide(a, b) {
     return a / b;
 }
 
+//modif en testing par user1
+
 //petit modif user2
 //petit modif 1
 // modif en bas par user2
+
